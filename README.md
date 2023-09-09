@@ -1,7 +1,7 @@
 <span id="topo">
 <div align="center">
     
-![banner](img/Terra.png)
+![banner](img/terra.png)
 
 </div>
     
