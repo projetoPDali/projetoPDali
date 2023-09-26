@@ -31,7 +31,7 @@ apenas fazer a intermediação entre as partes sem qualquer responsabilidade sob
 Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 04/09/2023 | 🚀 Iniciado      |  [Relatório - Ainda não disponivel]() |
+| 01 | 04/09/2023 | 🚀 Iniciado      |  [ver relatório](https://github.com/projetoPDali/sprint-1) |
 | 02 | Sem previsão | 🚧 Não iniciado     | [Relatório - Ainda não disponivel]() |
 | 03 | Sem previsão | 🚧 Não iniciado   | [Relatório - Ainda não disponivel]() |
 
@@ -75,7 +75,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   Product Owner    | Beatriz Roberto Montanini  |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-montanini-b69b451b9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaMontanini)            |
 | Scrum Master  | Flavio Eduardo Linguanotto |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-linguanotto-b587361a4/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/linguanotto)      |
-|   Dev Team    | Marcelo Eiji Torrieli                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelinhonet/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcelinhonet)   |
 | Dev Team |  Igor Vinicius Santos Fonseca  |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://github.com/fonsecaigor) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/fonsecaigor)| 
 | Dev Team | Thiago Marinho Brito de Souza    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Thiagombs23)| 
 
