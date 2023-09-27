@@ -31,17 +31,18 @@ apenas fazer a intermediação entre as partes sem qualquer responsabilidade sob
 Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 04/09/2023 | 🚀 Iniciado      |  [ver relatório](https://github.com/projetoPDali/sprint-1) |
-| 02 | Sem previsão | 🚧 Não iniciado     | [Relatório - Ainda não disponivel]() |
-| 03 | Sem previsão | 🚧 Não iniciado   | [Relatório - Ainda não disponivel]() |
+| 01 | 28/09/2023 | 🚀 Iniciado      |  [ver relatório](https://github.com/projetoPDali/sprint-1) |
+| 02 | 26/10/2023 | 🚧 Não iniciado     | [Relatório - Ainda não disponivel]() |
+| 03 | Sem Data Prevista | 🚧 Não iniciado   | [Relatório - Ainda não disponivel]() |
 
 
 → [Voltar ao topo](#topo)
 
 <span id="backlogs">
 
-## 🎯 Backlogs
-![banner](img/trabalhando.png)  
+## 🎯 Backlogs, Épicos & User Stories
+![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/user%20store.jpg) 
+![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/backlog.jpg) 
 
 <span id="evolução">
 
