@@ -46,8 +46,17 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 
 <span id="evolução">
 
+
 ## 📅 Evolução do projeto:
-![banner](img/trabalhando.png) 
+
+|    Sprint     | Entrega BackEnd                                  | Entrega FrontEnd                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 01  | <a href="https://github.com/projetoPDali/api ">  Repositorio Back </a> |  <a href="https://github.com/projetoPDali/front ">  Repositorio Front </a>   |
+| 02  |🚧 Não iniciado |    🚧 Não iniciado  |
+| 03  |🚧 Não iniciado |    🚧 Não iniciado  | 
+
+
+
 → [Voltar ao topo](#topo)
     
 <span id="tecnologias">
