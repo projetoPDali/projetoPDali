@@ -32,7 +32,7 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 28/09/2023 | 🚀 Iniciado      |  [ver relatório](https://github.com/projetoPDali/sprint-1) |
-| 02 | 26/10/2023 | 🚧 Não iniciado     | [Relatório - Ainda não disponivel]() |
+| 02 | 26/10/2023 | 🚀 Iniciado      | [ver relatório](https://github.com/projetoPDali/Sprint-2) | 
 | 03 | Sem Data Prevista | 🚧 Não iniciado   | [Relatório - Ainda não disponivel]() |
 
 
