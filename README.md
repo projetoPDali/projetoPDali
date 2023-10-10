@@ -36,6 +36,8 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 | 03 | Sem Data Prevista | 🚧 Não iniciado   | [Relatório - Ainda não disponivel]() |
 
 
+
+
 → [Voltar ao topo](#topo)
 
 <span id="backlogs">
@@ -54,6 +56,16 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 | 01  | <a href="https://github.com/projetoPDali/api ">  Repositorio Back </a> |  <a href="https://github.com/projetoPDali/front ">  Repositorio Front </a>   |
 | 02  |🚧 Não iniciado |    🚧 Não iniciado  |
 | 03  |🚧 Não iniciado |    🚧 Não iniciado  | 
+
+
+##  Sprint 01:
+
+
+Começamos o projeto com a modelagem do banco de dados, embora esteja sujeita a alterações ao longo do projeto, essa modelagem já representa uma aproximação significativa do que será implementado no produto final.
+
+![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/modelagem01.png) 
+
+
 
 
 
