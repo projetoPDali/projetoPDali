@@ -43,6 +43,9 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 <span id="backlogs">
 
 ## 🎯 Backlogs, Épicos & User Stories
+
+###  Requisitos
+![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/requisitos.png) 
 ![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/user%20store.jpg) 
 ![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/backlog2.jpg) 
 
