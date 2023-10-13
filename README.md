@@ -49,7 +49,9 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 
 ###  Epic, User Store
 ![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/user%20store.jpg) 
-![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/backlog2.jpg) 
+
+###  Backlogs
+![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/backlog.png) 
 
 <span id="evolução">
 
