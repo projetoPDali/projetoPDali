@@ -31,8 +31,8 @@ apenas fazer a intermediação entre as partes sem qualquer responsabilidade sob
 Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 28/09/2023 | 🚀 Iniciado      |  [ver relatório](https://github.com/projetoPDali/sprint-1) |
-| 02 | 26/10/2023 | 🚀 Iniciado      | [ver relatório](https://github.com/projetoPDali/Sprint-2) | 
+| 01 | 28/09/2023 | ✔️ Concluída      |  [ver relatório](https://github.com/projetoPDali/sprint-1) |
+| 02 | 26/10/2023 | ✔️ Concluída      | [ver relatório](https://github.com/projetoPDali/Sprint-2) | 
 | 03 | 23/11/2023 | 🚀 Iniciado      |  [ver relatório](https://github.com/projetoPDali/Sprint-3) |
 
 
